@@ -128,3 +128,6 @@ export const usrById = async(req:any,res:any)=>{
     }
 }
 
+
+
+// new
